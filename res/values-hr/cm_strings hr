@@ -813,7 +813,7 @@
     <string name="auto_brightness_level_options">Light level options</string>
     <string name="auto_brightness_menu_edit">Edit</string>
     <string name="auto_brightness_menu_split">Split</string>
-    <string name="auto_brightness_menu_remove">Remove</string>
+    <string name="auto_brightness_menu_remove">Ukloni</string>
     <string name="auto_brightness_preview">Preview</string>
     <string name="auto_brightness_preview_dialog_title">Brightness curve preview</string>
     <string name="auto_brightness_help_dialog_title">Help</string>

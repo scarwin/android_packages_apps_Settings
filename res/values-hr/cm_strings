@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <string name="battery_light_list_title">Colours</string>
+     <string name="lockscreen_maximize_widgets_title">Uvećaj widgete</string>
+     <string name="lockscreen_maximize_widgets_summary">POkaži uvećane widgete i umanjeno otključavanje kada je ekran uključen</string>
+     <string name="cyanogenmod_waiver_body">Mjenjanje ovih postavki može biti protuzakonito.\n\nAko odaberete \'OK\' ispod, prihavaćate ovo upozorenje, i time lišavate CyanogenMod i sve njegove održavatelje ikakvih zakonskih terećenja.</string>
+     <string name="title_tile_airplane">Zrakoplovni način</string>
+     <string name="title_collapse_panel">Automatski zatvori panel</string>
+     <string name="header_category_interface">Personalizacija</string>
+     <string name="color_calibration_title">Kalibracija boja</string>
+     <string name="color_calibration_summary">Kalibriraj boje na zaslonu</string>
+     <string name="notification_drawer_collapse_on_dismiss_title">POnašanje automatskog zatvaranja</string>
+     <string name="sms_security_check_limit_summary">Aplikacija može poslati %d poruka u 30 minuta prije zahtjevanja potvrde </string>
+    <string name="adaptive_backlight_summary">Inteligentno podešavanje svjetline zaslona koje pomaže očuvanju baterije</string>
+</resources>
